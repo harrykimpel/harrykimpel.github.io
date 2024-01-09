@@ -1,4 +1,4 @@
-![Zugspitz region](background-fall-web.jpg)
+![Zugspitz region](https://github.com/harrykimpel/harrykimpel/blob/main/background-fall-web.jpg?raw=true)
 
 ### Hi there 👋, I'm Harry
 
